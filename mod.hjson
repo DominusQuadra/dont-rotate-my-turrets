@@ -1,0 +1,15 @@
+name: dont-rotate-my-turrets
+displayName: Don't Rotate My Turrets
+author: Dominus Quadra
+description:
+'''
+Disables the ability to rotate turrets introduced in build 152.
+
+[gold[]]⚠ Works on vanilla turrets only!
+Multiplayer support may be janky, but it works.[[]]
+'''
+subtitle: "[teal[]]⚠ skibidi toilet[[]]"
+version: 1.0
+minGameVersion: 152
+repo: dominusquadra/dont-rotate-my-turrets // this is for Helium
+hidden: true // multiplayer compatible
